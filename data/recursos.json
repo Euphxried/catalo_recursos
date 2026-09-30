@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "titulo": "Aritmética y Álgebra",
+    "tipo": "Libro",
+    "tema": "Matemáticas",
+    "nivel": "Introductorio",
+    "autor": "CONAMAT"
+  },
+  {
+    "id": 2,
+    "titulo": "Curso de Git y GitHub",
+    "tipo": "Video",
+    "tema": "Control de Versiones",
+    "nivel": "Intermedio",
+    "autor": "midudev"
+  }
+]
