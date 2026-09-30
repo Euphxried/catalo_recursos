@@ -14,5 +14,13 @@
     "tema": "Control de Versiones",
     "nivel": "Intermedio",
     "autor": "midudev"
+  },
+  {
+    "id": 3,
+    "titulo": "Documentación Oficial de Python",
+    "tipo": "Sitio Web",
+    "tema": "Programación",
+    "nivel": "Todos los niveles",
+    "autor": "Python Software Foundation"
   }
 ]
